@@ -12,6 +12,7 @@ import demo.kotlin.com.zbhkotlindemo.R
 
 class HomeFragment : Fragment() {
 
+
     private lateinit var homeViewModel: HomeViewModel
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View? {
